@@ -5,4 +5,6 @@
     * meningioma
     * pitutary
     * no tumor
+
+      
   ![tumor_fig (2)](https://github.com/shely25/Brain_tumor_detection/assets/62746393/274d69b1-548f-43f5-b278-7d8c35411a26)
