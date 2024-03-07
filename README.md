@@ -15,3 +15,11 @@
 * Validation and training loss curve
 
   ![loss (7)](https://github.com/shely25/Brain_tumor_detection/assets/62746393/1844d515-be00-4c40-9b33-5410437291b2)
+
+* Classification report
+
+  ![Report](https://github.com/shely25/Brain_tumor_detection/assets/62746393/0c485744-71d3-40ff-a239-97d387c9b15b)
+
+* Confusion Matrix 
+
+![cm (5)](https://github.com/shely25/Brain_tumor_detection/assets/62746393/104d90fc-ac7d-429c-8ef7-bff9d8151547)
